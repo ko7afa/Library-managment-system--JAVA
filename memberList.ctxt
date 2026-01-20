@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=memberList
+comment1.params=name\ id
+comment1.target=void\ addMember(java.lang.String,\ int)
+comment2.params=id
+comment2.target=void\ removeMember(int)
+comment3.params=id\ newName
+comment3.target=void\ updateMember(int,\ java.lang.String)
+comment4.params=
+comment4.target=void\ displayMembers()
+comment5.params=borrowQueue
+comment5.target=void\ displayBorrowedBooksCount(BorrowQueue)
+comment6.params=memberId\ borrowQueue
+comment6.target=int\ countBorrowedBooksForMember(int,\ BorrowQueue)
+numComments=7

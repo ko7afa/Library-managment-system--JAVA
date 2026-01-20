@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BorrowQueue
+comment1.params=requestId\ bookId\ requestDate\ isBookAvailable
+comment1.target=void\ enqueue(int,\ int,\ java.lang.String,\ boolean)
+comment2.params=bookId\ author\ books
+comment2.target=void\ setBookBorrowed(int,\ java.lang.String,\ bookDoublyList)
+comment3.params=
+comment3.target=void\ dequeue()
+comment4.params=
+comment4.target=void\ displayRequests()
+comment5.params=requestId
+comment5.target=void\ removeRequestById(int)
+comment6.params=memberId
+comment6.target=int\ countBorrowedBooksForMember(int)
+numComments=7

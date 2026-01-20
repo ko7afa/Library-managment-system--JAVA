@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=bookDoublyList
+comment1.params=
+comment1.target=bookDoublyList()
+comment10.params=a\ b
+comment10.target=void\ swapBookData(BookNode,\ BookNode)
+comment11.params=
+comment11.target=void\ displayAvailableBooks()
+comment12.params=bookId
+comment12.target=void\ setBookAvailable(int)
+comment2.params=title\ author\ bookId\ bookAvailable
+comment2.target=void\ addBook(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment3.params=
+comment3.target=void\ displayBooks()
+comment4.params=bookId
+comment4.target=void\ removeBook(int)
+comment5.params=bookId\ author
+comment5.target=void\ SearchByIdOrAuthor(int,\ java.lang.String)
+comment6.params=bookId\ author
+comment6.target=BookNode\ SearchByIdOrAuthorNode(int,\ java.lang.String)
+comment7.params=title\ author\ bookId
+comment7.target=void\ updateBook(java.lang.String,\ java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ sortByTitle()
+comment9.params=
+comment9.target=void\ sortByAuthor()
+numComments=13
